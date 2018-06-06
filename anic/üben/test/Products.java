@@ -2,7 +2,7 @@
 
 public class Product
 {
-	private TreeSet products;
+	private LinkedList products;
 	private String name;
 	private int wert;
 }
