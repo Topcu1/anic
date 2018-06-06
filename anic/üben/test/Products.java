@@ -2,5 +2,5 @@
 
 public class Product
 {
-	private ArrayList products;
+	private TreeSet products;
 }
