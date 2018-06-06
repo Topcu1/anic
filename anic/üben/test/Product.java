@@ -2,5 +2,5 @@
 
 public class Product
 {
-	private int anzahl;
+	private float anzahl;
 }
